@@ -13,7 +13,7 @@ $fgmembersite->SetAdminEmail('rajit88@gmail.com');
 //hostname, user name, password, database name and table name
 //note that the script will create the table (for example, fgusers in this case)
 //by itself on submitting register.php for the first time
-$fgmembersite->InitDB(/*hostname*/'localhost',
+$fgmembersite->InitDB(/*hostname*/'satyadbserver.database.windows.net',
                       /*username*/'satyadbserver',
                       /*password*/'Asdf12345678',
                       /*database name*/'satyadb',
